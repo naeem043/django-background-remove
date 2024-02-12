@@ -15,9 +15,10 @@ for Windows: \
 Upload image to this endpoint with background then it will return image after removing the bg\
 
   Endpoint: http://localhost:8000/remove-bg/
-  input name: 
+  \
+  \input name:\ 
     image 'my-photo.png'
-
-  it will return 'media/my-photo.png'
+\
+  it will return 'media/my-photo.png' \ 
 
 Then you can get the file here   http://localhost:8000/media/my-photo.png

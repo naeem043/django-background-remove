@@ -1,0 +1,4 @@
+
+Django==4.1
+djangorestframework==3.14.0
+rembg==2.0.54

@@ -2,16 +2,17 @@
 
 To setup this project:\
 virtualenv venv\
-for Linux/Mac: \
+for Linux/Mac:   <br>
   source venv/bin/activate\
   pip3 install -r requirements.txt\
   python3 manage.py runserver
-for Windows: \
+  <br>
+for Windows: <br>
   source venv/Scripts/activate\
   pip install -r requirements.txt\
   python manage.py runserver
   
-
+<br>
 Upload image to this endpoint with background then it will return image after removing the bg\
 
   Endpoint: http://localhost:8000/remove-bg/

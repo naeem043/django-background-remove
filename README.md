@@ -5,11 +5,11 @@ virtualenv venv\
 for Linux/Mac: \
   source venv/bin/activate\
   pip3 install -r requirements.txt\
-  python3 manage.py runserver\
+  python3 manage.py runserver
 for Windows: \
   source venv/Scripts/activate\
   pip install -r requirements.txt\
-  python manage.py runserver\
+  python manage.py runserver
   
 
 Upload image to this endpoint with background then it will return image after removing the bg\

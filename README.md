@@ -20,4 +20,4 @@ Upload image to this endpoint with background then it will return image after re
 
   it will return 'media/my-photo.png'
 
-Then you can get the file here   http://localhost:8000/remove-bg/media/my-photo.png
+Then you can get the file here   http://localhost:8000/media/my-photo.png
